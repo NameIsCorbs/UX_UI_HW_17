@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  body{
+    font-family: Satoshi;
+  }
+  label.logo{
+    color: white;
+    font-family: Imbue;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 96px;
+    padding: px;
+    font-weight: normal;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  nav{
+    background: #1E1E1E;
+    height: 80px;
+    width: 100%;
+  }
+  nav ul{
+    float: right;
+    margin-right: 20px;
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+  }
+  {
+    
+  }
